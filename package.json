@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "This is a test directory ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdellatiif/test-repo.git"
+  },
+  "author": "Abdellatif Emarah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdellatiif/test-repo/issues"
+  },
+  "homepage": "https://github.com/abdellatiif/test-repo#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
